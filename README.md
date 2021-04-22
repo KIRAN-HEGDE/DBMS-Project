@@ -1,4 +1,4 @@
-# DBMS-Project
+# Online Bank Management
 An online Bank management system to provide complete banking facilities using any bank account. Created for 4th Semester VTU Mini Project for Database Management System.  
 
 ## Software Specification
